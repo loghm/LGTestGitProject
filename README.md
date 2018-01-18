@@ -6,8 +6,4 @@ git create some new tracks change.
 first add to origin master and to be fine.
 master change last line for test conflict demo.
 fast forward mode testing.
-<<<<<<< Updated upstream
 issue-01.
-=======
-test git stash fuction.
->>>>>>> Stashed changes
